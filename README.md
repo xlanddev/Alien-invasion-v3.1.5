@@ -165,4 +165,3 @@ We appreciate your contributions and look forward to building something great.
    python3 alien_invasion.py
 ```
 
-Copyright (c) 2026 XLAND
