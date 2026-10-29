@@ -79,13 +79,13 @@ Welcome to the Alien Invasion project. This is an open-source effort where serio
 The foundation is set, but now it’s time to build something even better. If you’re ready to contribute, collaborate, and help take this project to the next level, we’re excited to have you on board.
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/MatinAfzal/Alien-invasion/releases" target="_blank" style="margin: 2px;">
+  <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5" target="_blank" style="margin: 2px;">
     <img alt="Homepage" src="https://img.shields.io/badge/Github-Latest%20release-7289da?logo=futurelearn&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://discord.com/invite/jBhmM2j2GN" target="_blank" style="margin: 2px;">
     <img alt="Chat" src="https://img.shields.io/badge/Discord-MatinAfzal-7289da?logo=Discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://github.com/MatinAfzal/Alien-invasion/discussions/43" target="_blank" style="margin: 2px;">
+  <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5" target="_blank" style="margin: 2px;">
     <img alt="Chat" src="https://img.shields.io/badge/Discussions-TODO%20List-7289da?logo=todoist&logoColor=white&color=green" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div> 
