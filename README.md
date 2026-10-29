@@ -79,8 +79,8 @@ Welcome to the Alien Invasion project. This is an open-source effort where serio
 The foundation is set, but now it’s time to build something even better. If you’re ready to contribute, collaborate, and help take this project to the next level, we’re excited to have you on board.
 
 <div align="center" style="line-height: 1;">
-  <a href="xland site" target="_blank" style="margin: 2px;">
-    <img alt="xland site" src="https://xlanddev.github.io/xland-hub/" style="display: inline-block; vertical-align: middle;"/>
+  <a href="https://xlanddev.github.io/xland-hub/" target="_blank" style="margin: 2px;">
+    <img alt="xland site" src="https://img.shields.io/badge/Github-Latest%20release-7289da?logo=futurelearn&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a
 
 <div align="center" style="line-height: 1;">
