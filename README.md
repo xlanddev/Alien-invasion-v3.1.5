@@ -152,9 +152,6 @@ We appreciate your contributions and look forward to building something great.
 
 - Next, navigate to the project directory:
 
-```
-   
-```
 
 - Make sure you have Python 3 or later installed. Then, install the dependencies:
 ```
