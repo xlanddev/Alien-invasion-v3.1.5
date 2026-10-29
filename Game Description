@@ -1,0 +1,43 @@
+# XLAND Alien Invasion — Neon Edition
+
+An unofficial XLAND enhancement pack for the open-source **Alien Invasion** Python/Pygame game. The goal is to preserve the original project while layering in neon visuals and new arcade mechanics.
+
+## Features
+
+- Animated twinkling stars, neon ship aura, and corner HUD accents.
+- XLAND neon title treatment and control hint on the main screen.
+- Particle bursts and neon boss encounters with a health bar.
+- Collectible multi-shot, shield, and score power-ups.
+- Original game systems, backgrounds, characters, sounds, and credits are retained.
+
+## Run
+
+```bash
+python -m pip install -r requirements.txt
+python alien_invasion.py
+```
+
+Controls: **WASD / arrow keys** to move, **mouse** to aim and fire, **Q** to quit.
+
+## Credits and licensing
+
+This is an unofficial community modification. The original `LICENSE`, upstream credits, and asset attribution/license files are retained. Please read them before redistributing. XLAND changes are not affiliated with or endorsed by the upstream authors.
+
+## XLAND Expansion systems (additive)
+
+The XLAND edition adds an optional expansion layer while retaining the original game systems and assets:
+
+- **Ship classes:** `C` cycles Phantom (fast), Titan (extra hearts), and Spectre (extra damage) while in menus.
+- **Multi-phase boss:** the Void Leviathan changes attack speed at 50% and 20% health; defeat it for credits.
+- **Permanent upgrades:** open `U`, then press `1` for laser damage, `2` for armor, or `3` for special weapon cooldown. Credits and levels are saved locally.
+- **Dynamic hazards:** asteroids and black holes appear during gameplay; the selected secret mission increases black-hole encounters.
+- **Galaxy missions:** open `G`, choose with left/right, confirm with Enter.
+- **Achievements and profile:** open `P` to see the best score, kills, bosses and earned achievement flags.
+- **Tactical radar:** `R` toggles the radar.
+- **XLAND AI Core / guide:** `H` opens the tactical guide; in-game hints appear briefly.
+- **Special Nova:** press `V` during a run to damage the boss and clear nearby enemies; it has a cooldown.
+- **Persistent save:** `xland_profile.json` is created beside the game entry point after saving progress. Keep this file if you want to retain your profile.
+
+Controls added: `C`, `G`, `U`, `P`, `R`, `H`, `V`, `1`-`3`, `Left/Right`, `Enter`, and `Esc` as described above. Original movement, firing, credits, assets, and game systems remain in place.
+
+The expansion code has been syntax-checked with Python's `compileall`. A full graphical runtime test still needs to be run on a machine with the dependencies installed.
