@@ -82,9 +82,6 @@ The foundation is set, but now it’s time to build something even better. If yo
   <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5" target="_blank" style="margin: 2px;">
     <img alt="Homepage" src="https://img.shields.io/badge/Github-Latest%20release-7289da?logo=futurelearn&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://discord.com/invite/jBhmM2j2GN" target="_blank" style="margin: 2px;">
-    <img alt="Chat" src="https://img.shields.io/badge/Discord-MatinAfzal-7289da?logo=Discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
   <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5" target="_blank" style="margin: 2px;">
     <img alt="Chat" src="https://img.shields.io/badge/Discussions-TODO%20List-7289da?logo=todoist&logoColor=white&color=green" style="display: inline-block; vertical-align: middle;"/>
   </a>
@@ -102,7 +99,7 @@ The foundation is set, but now it’s time to build something even better. If yo
     <td>V1.3.0</td>
     <td>May 3, 2025</td>
     <td>
-      <a href="https://github.com/MatinAfzal/Alien-invasion/releases/tag/V1.3.0" target="_blank">
+      <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.3.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
       </a>
     </td>
@@ -111,7 +108,7 @@ The foundation is set, but now it’s time to build something even better. If yo
     <td>V1.2.0</td>
     <td>Feb 3, 2025</td>
     <td>
-      <a href="https://github.com/MatinAfzal/Alien-invasion/releases/tag/V1.2.0" target="_blank">
+      <a href="https://github.com/xlanddev/Alien-invasion-v2.1.1" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.2.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
       </a>
     </td>
@@ -120,7 +117,7 @@ The foundation is set, but now it’s time to build something even better. If yo
     <td>V1.1.0</td>
     <td>Jan 8, 2025</td>
     <td>
-      <a href="https://github.com/MatinAfzal/Alien-invasion/releases/tag/V1.1.0" target="_blank">
+      <a href="https://github.com/xlanddev/Alien-invasion-v1.0.0" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.1.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
       </a>
     </td>
@@ -129,7 +126,7 @@ The foundation is set, but now it’s time to build something even better. If yo
     <td>V1.0.0</td>
     <td>Nov 16, 2024</td>
     <td>
-      <a href="https://github.com/MatinAfzal/Alien-invasion/releases/tag/V1.0.0" target="_blank">
+      <a href="hhttps://github.com/xlanddev/Alien-invasion-v3.1.5/releases/tag/V2.0" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.0.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
       </a>
     </td>
@@ -145,13 +142,13 @@ The foundation is set, but now it’s time to build something even better. If yo
 
 - If you're adding new assets like sound effects, music, or textures, ensure that the sources are listed in the Copyright.txt file in the appropriate directory, and include the source links in your PR description if possible. 
 
-- For ideas on what to work on, check the [TODO list discussion](https://github.com/MatinAfzal/Alien-invasion/discussions/43), or feel free to join our [Discord server](https://discord.com/invite/jBhmM2j2GN) to collaborate and share your progress. 
+- For ideas on what to work on, check the [TODO list discussion](https://github.com/xlanddev/Alien-invasion-v3.1.5/discussions/43), or feel free to join our  to collaborate and share your progress. 
 
 We appreciate your contributions and look forward to building something great.
 
 ## Project Setup
 
-- Clone this [repository](https://github.com/MatinAfzal/Alien-invasion) or download the [latest version](https://github.com/MatinAfzal/Alien-invasion/releases).
+- Clone this [repository](https://github.com/xlanddev/Alien-invasion-v3.1.5n) or download the [latest version](hhttps://github.com/xlanddev/Alien-invasion-v3.1.5/releases).
 
 - Next, navigate to the project directory:
 
