@@ -102,7 +102,7 @@ The foundation is set, but now it’s time to build something even better. If yo
   </tr>
     <tr>
     <td>V1.3.0</td>
-    <td>May 3, 2025</td>
+    <td>May 3, 2026</td>
     <td>
       <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5/releases/tag/Alien-invasion-Game" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.3.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
@@ -110,8 +110,8 @@ The foundation is set, but now it’s time to build something even better. If yo
     </td>
   </tr>
   <tr>
-    <td>V1.2.0</td>
-    <td>Feb 3, 2025</td>
+    <td>V1.4.0</td>
+    <td>Feb 3, Coming soon</td>
     <td>
       <a href="https://github.com/xlanddev/Alien-invasion-v4.1.1" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.2.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
@@ -119,8 +119,8 @@ The foundation is set, but now it’s time to build something even better. If yo
     </td>
   </tr>
   <tr>
-    <td>V1.1.0</td>
-    <td>Jan 8, 2025</td>
+    <td>V4.1.0</td>
+    <td>Jan 8, Coming soon</td>
     <td>
       <a href="https://github.com/xlanddev/Alien-invasion-v5.0.0" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.1.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
@@ -128,8 +128,8 @@ The foundation is set, but now it’s time to build something even better. If yo
     </td>
   </tr>
   <tr>
-    <td>V1.0.0</td>
-    <td>Nov 16, 2024</td>
+    <td>V5.0.0</td>
+    <td>Nov 16, Coming soon</td>
     <td>
       <a href="hhttps://github.com/xlanddev/Alien-invasion-v3.1.5/releases/tag/V2.0" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.0.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
