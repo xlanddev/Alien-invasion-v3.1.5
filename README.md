@@ -80,7 +80,7 @@ The foundation is set, but now it’s time to build something even better. If yo
 
 <div align="center" style="line-height: 1;">
   <a href="xland site" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://xlanddev.github.io/xland-hub/" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="xland site" src="https://xlanddev.github.io/xland-hub/" style="display: inline-block; vertical-align: middle;"/>
   </a
 
 <div align="center" style="line-height: 1;">
