@@ -17,6 +17,12 @@ This is an unofficial community modification of the original Alien Invasion proj
 - WASD or arrow keys: move
 - Mouse: aim and fire
 - Q: quit
+- New Controls
+Key Action
+F3 Enable/Disable GPU Bloom Effect
+F4 Enable/Disable Cinematic Effects
+WASD / Arrow Keys Movement
+Mouse Aim and Shoot
 
 ## Important notes
 
