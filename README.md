@@ -46,7 +46,15 @@ python alien_invasion.py
 
 Controls: **WASD / arrow keys** to move, **mouse** to aim and fire, **Q** to quit.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+New Controls
+Key Action
+F3 Enable/Disable GPU Bloom Effect
+F4 Enable/Disable Cinematic Effects
+WASD / Arrow Keys Movement
+Mouse Aim and Shoot
 ## Credits and licensing
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is an unofficial community modification. The original `LICENSE`, upstream credits, and asset attribution/license files are retained. Please read them before redistributing. XLAND changes are not affiliated with or endorsed by the upstream authors.
 
