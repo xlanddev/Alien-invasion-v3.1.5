@@ -110,16 +110,16 @@ The foundation is set, but now it’s time to build something even better. If yo
     </td>
   </tr>
   <tr>
-    <td>V1.4.0</td>
+    <td>V4.3.0</td>
     <td> Coming soon</td>
     <td>
-      <a href="https://github.com/xlanddev/Alien-invasion-v4.1.1" target="_blank">
+      <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5/releases" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.2.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
       </a>
     </td>
   </tr>
   <tr>
-    <td>V4.1.0</td>
+    <td>V5.1.0</td>
     <td> Coming soon</td>
     <td>
       <a href="https://github.com/xlanddev/Alien-invasion-v5.0.0" target="_blank">
@@ -128,7 +128,7 @@ The foundation is set, but now it’s time to build something even better. If yo
     </td>
   </tr>
   <tr>
-    <td>V5.0.0</td>
+    <td>V6.0.0</td>
     <td> Coming soon</td>
     <td>
       <a href="hhttps://github.com/xlanddev/Alien-invasion-v3.1.5/releases/tag/V2.0" target="_blank">
