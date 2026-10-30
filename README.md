@@ -111,7 +111,7 @@ The foundation is set, but now it’s time to build something even better. If yo
   </tr>
   <tr>
     <td>V4.3.0</td>
-    <td> Coming soon</td>
+    <td> oct 30, 2026</td>
     <td>
       <a href="https://github.com/xlanddev/Alien-invasion-v3.1.5/releases" target="_blank">
         <img src="https://img.shields.io/badge/Release-V1.2.0-7289da?logo=alienware&logoColor=green&color=violet" alt="Release Badge">
